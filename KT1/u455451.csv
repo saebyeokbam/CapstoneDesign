@@ -1,0 +1,4 @@
+timestamp,solving_id,question_id,user_answer,elapsed_time
+1548485762492,1,q4716,a,60000
+1548485783214,2,q493,a,17000
+1548485801672,3,q5421,d,16000
